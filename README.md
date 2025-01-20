@@ -1,7 +1,6 @@
 <div>
 
   # 🧱 Stack
-  ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
@@ -38,11 +37,7 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Airysm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airysm)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airysm)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ![Airysm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airysm&theme=dark&show_icons=true)
 </div>
 
 <!--
