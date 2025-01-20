@@ -37,7 +37,9 @@
   <br/>
   <br/>
   
-  ![Airysm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airysm&theme=dark&show_icons=true)
+  ![Airysm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airysm&theme=jolly&show_icons=true)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airysm&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
