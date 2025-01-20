@@ -1,10 +1,10 @@
 <div align="center">
 
-  # 🧱 Stack
+  # 🧱     STACK
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=JAVA&logoColor=white"/>
+  ## <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=JAVA&logoColor=white"/>
   <!--SpringBoot-->
-  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  ## <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br/>
   <!--JPA-->
   <img src="https://img.shields.io/badge/JPA-003087?style=flat-square&logo=JPA&logoColor=white"/>
