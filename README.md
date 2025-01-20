@@ -15,7 +15,7 @@
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Selenium-->
-  <img src="https://img.shields.io/badge/#6DB33F?style=flat-square&logo=Selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br/>
   
   ### Framework
