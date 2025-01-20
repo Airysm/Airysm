@@ -6,18 +6,16 @@
   <!--SpringBoot-->
   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br/>
-  <!--AMAZON EC2-->
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
   <!--JPA-->
   <img src="https://img.shields.io/badge/JPA-003087?style=flat-square&logo=JPA&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  
-
-
-  <br/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <br/>
+  <!--GIT-->
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <!--AMAZON EC2-->
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+  
   <br/>
   <br/>
   
